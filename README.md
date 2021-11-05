@@ -4,4 +4,4 @@
 
 
 
-<a href="https://www.facebook.com/isaelDD/" ><img src="iconos/facebook.png" widht="15" height="15"> </a>
+<a href="https://www.facebook.com/isaelDD/" ><img src="iconos/facebook.png" widht="25" height="25"> </a>
