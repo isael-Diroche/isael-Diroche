@@ -1,6 +1,6 @@
 <link src="text/css">
 <h1> Hello, i'm 𝙸𝚜𝚊𝚎𝚕 𝙳𝚒𝚛𝚘𝚌𝚑𝚎 </h1>
-<img src="iconos/fondo.png" widht="1700" height="333">
+<img src="iconos/fondo.png">
 <h4>Actualmente Estudiante del Instituto Tecnologico de las Americas (ITLA)</h4>
 
 
