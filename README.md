@@ -4,4 +4,7 @@
 
 
 
-<a href="https://www.facebook.com/isaelDD/" ><img src="iconos/facebook.png" widht="25" height="25"> </a>
+<a href="https://www.facebook.com/isaelDD/" ><img src="iconos/facebook.png" widht="35" height="35"> </a>
+<a href="https://www.instagram.com/_isael_diroche_/" ><img src="iconos/instagram.png" widht="35" height="35"> </a>
+<a href="https://twitter.com/isael93687404" ><img src="iconos/gotjeo.png" widht="35" height="35"> </a>
+<a href="https://www.facebook.com/isaelDD/" ><img src="iconos/whatsapp.png" widht="35" height="35"> </a>
