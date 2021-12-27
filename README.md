@@ -1,6 +1,5 @@
 <h1><i> Hello, i'm <b>Isael Diroche</i></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <img src="iconos/fondo.png">
-
 <pre>
 <h2> Sobre mi</h2>
 <li> <b>Ocupacion: </b>Actualmente Estudiante del Instituto Tecnologico de las Americas (ITLA)</li>
