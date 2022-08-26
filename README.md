@@ -16,27 +16,18 @@
 
 <h2>Herramientas</h2>
 
-<li>
- 
-<img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">
+![VScode](https://img.shields.io/badge/-Vscode-blue?style=for-the-badge&logo=visualstudiocode)
+![Python](https://img.shields.io/badge/-Python-succes?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-blueviolet?style=for-the-badge&logo=visualstudio)
+![PyCharm](https://img.shields.io/badge/-Pycharm-green?style=for-the-badge&logo=Pycharm)
+![C#](https://img.shields.io/badge/-Csharp-blue?style=for-the-badge&logo=csharp)
+![SqlServer](https://img.shields.io/badge/-SqlServer-red?style=for-the-badge&logo=microsoftsqlserver)
+![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA-blueviolet?style=for-the-badge&logo=intellijidea)
+![NetBeans](https://img.shields.io/badge/-NetBeans-black?style=for-the-badge&logo=apachenetbeanside)
 
-<img width="35" height="35" src="https://www.sublimehq.com/images/sublime_text.png">
-
-<img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
-  
-<img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png">
-  
-<img width="35" height="35" src="https://3.bp.blogspot.com/-bmZf2KZxGyE/Wxas4aNgTxI/AAAAAAAAm-Y/VXidbQsZhIc_wXptqbwkREMUPSTEzOKJACLcBGAs/w400/bloc-de-notas1.png">
-  
-<img width="35" height="35" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg">
-  
-<img width="35" height="35" src="https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2008/11/paintneticon.png">
-  
-<img width="35" height="35" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
-  
-<img width="35" height="35" src="https://juniortech.org/wp-content/uploads/2020/03/gamemaker-logo-300x300px.png">
-
-</li>
 <br />
 <br />
 
