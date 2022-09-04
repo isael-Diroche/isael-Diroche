@@ -1,5 +1,17 @@
+
+
 <h1><i> Hello, i'm <b>Isael Diroche</i></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <img src="iconos/fondo.png">
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=isael-diroche.isael-diroche)
+![Followers](https://img.shields.io/github/followers/isael-diroche)
+![Stars](https://img.shields.io/github/stars/isael-diroche?label=stars&logo=Profile%20stars&logoColor=g)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=isael-diroche&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="isaelisael-dirochey's github stats" /> ![](https://github-readme-streak-stats.herokuapp.com/?user=isael-diroche&theme=dark&hide_border=false)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isael-diroche&layout=compact&theme=dark&hide_border=false" />
+
+
 <pre>
 <h2> Sobre mi</h2>
 <li> <b>Ocupacion: </b>Actualmente Estudiante del Instituto Tecnologico de las Americas (ITLA)</li>
