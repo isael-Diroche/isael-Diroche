@@ -48,5 +48,3 @@
 <a align="center" href="https://www.instagram.com/_isael_diroche_/" ><img src="iconos/instagram.png" widht="25" height="25"><b> isael_diroche_ </b></a>
 
 <a align="center" href="https://twitter.com/isael93687404" ><img src="iconos/gorjeo.png" widht="25" height="25"><b> @isael93687404 </b></a>
-
-<a align="center" href="+18096781819" ><img src="iconos/whatsapp.png" widht="25" height="25"><b> 809-678-1819 </b></a>
