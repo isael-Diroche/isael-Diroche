@@ -39,7 +39,13 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-black?style=for-the-badge&logo=apachenetbeanside)
 
 <br />
-<br />
+
+---
+### 👀 Repositorios Activos
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isael-Diroche&repo=Bot-Firulais&theme=radical "Bot-Firulais")](https://github.com/isael-Diroche/Bot-Firulais)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isael-Diroche&repo=GrupoSoftware&theme=highcontrast "GrupoSoftware")](https://github.com/Isael-Diroche/GrupoSoftware)
+
 
 ## Mis redes sociales -->
 
