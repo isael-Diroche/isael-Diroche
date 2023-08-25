@@ -28,7 +28,7 @@
 </br>
 
 <h2 align="center">Acerca de mí</h2>
-<p align="center">¡Hola! Soy [Tu Nombre], un entusiasta programador junior con pasión por la resolución de problemas y la creación de soluciones tecnológicas. Mi experiencia se centra en el desarrollo de aplicaciones utilizando Python y C#, así como el manejo de bases de datos con SQL Server, MySQL y SQLite3.</p>
+<p align="center">¡Hola! Soy Isael Diroche, un entusiasta programador junior con pasión por la resolución de problemas y la creación de soluciones tecnológicas. Mi experiencia se centra en el desarrollo de aplicaciones utilizando Python y C#, así como el manejo de bases de datos con SQL Server, MySQL y SQLite3.</p>
 </br>
 
 <h3 align="left">Habilidades</h3>
