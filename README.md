@@ -1,31 +1,46 @@
-<h1> Hello, i'm <b>Isael Diroche</b></h1>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=isael-diroche.isael-diroche)
-![Followers](https://img.shields.io/github/followers/isael-diroche)
-![Stars](https://img.shields.io/github/stars/isael-diroche?label=stars&logo=Profile%20stars&logoColor=g)
+<p align="center">
+ <img width="100px" src="https://avatars.githubusercontent.com/u/84982242?v=4" align="center" alt="Isael Diroche" />
+ <h2 align="center">Isael Diroche D.</h2>
+ <p align="center">¡Hola, bienvenido a mi perfil de GitHub! 👋</p>
+</p>
 
+  <p align="center">
+    <a href="https://github.com/isael-Diroche?tab=followers">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/isael-diroche?label=Followers&logo=person">
+    </a>
+    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+      <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/isael-diroche?logo=star">
+    </a>
+    <a href="https://discord.gg/jrCJY2h6XR">
+      <img alt="Discord" src="https://img.shields.io/discord/847910520086331432?logo=discord&logoColor=white&label=Discord&color=transparent">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+      <img alt="Visitas" src="https://img.shields.io/github/watchers/isael-dirohce/isael-Diroche">
+    </a>
+  </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=isael-diroche&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="isaelisael-dirochey's github stats" /> ![](https://github-readme-streak-stats.herokuapp.com/?user=isael-diroche&theme=dark&hide_border=false)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isael-diroche&layout=compact&theme=dark&hide_border=false" />
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=isael-diroche&theme=dark&hide_border=false)
 
+</div>
+</br>
 
+<h2 align="center">Acerca de mí</h2>
+<p align="center">¡Hola! Soy [Tu Nombre], un entusiasta programador junior con pasión por la resolución de problemas y la creación de soluciones tecnológicas. Mi experiencia se centra en el desarrollo de aplicaciones utilizando Python y C#, así como el manejo de bases de datos con SQL Server, MySQL y SQLite3.</p>
+</br>
 
-
-<pre>
-<h2> Sobre mi</h2>
-<li> <b>Ocupacion: </b>Actualmente Estudiante del Instituto Tecnologico de las Americas (ITLA)</li>
-<li> <b>Idiomas: </b> Español, Ingles (intermedio)</li>
-<li> <b>Lenguajes de Programacion: </b>Python, C++</li>
-</pre>
-<pre>
-<h2> Personal</h2>
-<li> <b>Nacionalidad: </b> Dominicano <img height="15" src="https://cdn.countryflags.com/thumbs/dominican-republic/flag-400.png"></li>
-<li> <b>Vivo en: </b>San cristobal \ Villa Altagracia 🏘</li>
-<li> <b>Estado civil: </b>Soltero 😎</li>
-<li> <b>Edad: </b>19 años ✌️</li>
-</pre>
-
-<h2>Herramientas</h2>
+<h3 align="left">Habilidades</h3>
+<p align="left">
+  
+- Lenguajes de Programación: Python, C#
+- Bases de Datos: SQL Server, MySQL, SQLite3
+- Resolución de Problemas: Disfruto enfrentando desafíos y encontrando soluciones eficientes.
+- Aprendizaje Constante: Siempre estoy buscando oportunidades para aprender y mejorar mis habilidades.
+  </br>
+   </br>
+</p>
 
 ![VScode](https://img.shields.io/badge/-Vscode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Python](https://img.shields.io/badge/-Python-succes?style=for-the-badge&logo=python)
@@ -39,19 +54,20 @@
 ![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA-blueviolet?style=for-the-badge&logo=intellijidea)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-black?style=for-the-badge&logo=apachenetbeanside)
 
-<br />
+<h3 align="left">Proyectos Destacados</h3>
 
----
-### 👀 Repositorios Activos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isael-Diroche&repo=Bot-Firulais&theme=radical "Bot-Firulais")](https://github.com/isael-Diroche/Bot-Firulais)
+ <div align="left">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isael-Diroche&repo=GrupoSoftware&theme=highcontrast "GrupoSoftware")](https://github.com/Isael-Diroche/GrupoSoftware)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isael-Diroche&repo=GrupoSoftware&theme=merko "GrupoSoftware")](https://github.com/Isael-Diroche/GrupoSoftware)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isael-Diroche&repo=TeleHelpBot&theme=merko "TeleHelpBot")](https://github.com/Isael-Diroche/TeleHelpBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isael-Diroche&repo=TechSolutionsID&theme=merko "TechSolutionsID")](https://github.com/Isael-Diroche/TechSolutionsID)                 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isael-Diroche&repo=VisitorRegister&theme=merko "VisitorRegister")](https://github.com/Isael-Diroche/VisitorRegister)
+ </div>
 
 
-## Mis redes sociales -->
 
-<a align="center" href="https://www.facebook.com/isaelDD/" ><img src="iconos/facebook.png" widht="25" height="25"><b> Isael Dirochê </b></a>
 
-<a align="center" href="https://www.instagram.com/_isael_diroche_/" ><img src="iconos/instagram.png" widht="25" height="25"><b> isael_diroche_ </b></a>
+<h3 align="left">Contacto</h3>
 
-<a align="center" href="https://twitter.com/isael93687404" ><img src="iconos/gorjeo.png" widht="25" height="25"><b> @isael93687404 </b></a>
+¡Me encantaría conectarte contigo! Puedes encontrarme en [LinkedIn](enlace-a-tu-perfil-de-LinkedIn) y [Twitter](enlace-a-tu-perfil-de-Twitter), donde comparto mis últimas experiencias y aprendizajes. También puedes contactarme por correo electrónico en isaeldiroche00@gmail.com
+
+¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y proyectos. Cualquier comentario o sugerencia es más que bienvenida.
