@@ -15,8 +15,8 @@
     <a href="https://discord.gg/jrCJY2h6XR">
       <img alt="Discord" src="https://img.shields.io/discord/847910520086331432?logo=discord&logoColor=white&label=Discord&color=transparent">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="Visitas" src="https://img.shields.io/github/watchers/isael-dirohce/isael-Diroche">
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=isael-Diroche&label=Visitas&color=0&icon=0&pretty=true" />
     </a>
   </p>
 
@@ -49,6 +49,7 @@
 ![Python](https://img.shields.io/badge/-Python-succes?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-blueviolet?style=for-the-badge&logo=visualstudio)
 ![PyCharm](https://img.shields.io/badge/-Pycharm-green?style=for-the-badge&logo=Pycharm)
@@ -57,6 +58,8 @@
 ![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA-blueviolet?style=for-the-badge&logo=intellijidea)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-black?style=for-the-badge&logo=apachenetbeanside)
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-Black?style=for-the-badge&logo=figma)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 <h3 align="left">Proyectos Destacados</h3>
 
