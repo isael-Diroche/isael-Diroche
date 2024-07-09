@@ -37,8 +37,8 @@
 <h3 align="left">Habilidades</h3>
 <p align="left">
   
-- Lenguajes de Programación: Python, C#
-- Bases de Datos: SQL Server, MySQL, SQLite3
+- Lenguajes de Programación: Python, C#, JavaScript
+- Bases de Datos: SQL Server, MySQL, SQLite3, MondoDB, PostgresSQL
 - Resolución de Problemas: Disfruto enfrentando desafíos y encontrando soluciones eficientes.
 - Aprendizaje Constante: Siempre estoy buscando oportunidades para aprender y mejorar mis habilidades.
   </br>
