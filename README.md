@@ -15,12 +15,12 @@
     <a href="https://discord.gg/jrCJY2h6XR">
       <img alt="Discord" src="https://img.shields.io/discord/847910520086331432?logo=discord&logoColor=white&label=Discord&color=transparent">
     </a>
+    <a href="https://user-badge.committers.top/dominican_republic/isael-Diroche">
+      <img src="https://user-badge.committers.top/dominican_republic/isael-Diroche.svg" alt="committers.top badge" />
+    </a>
     <a href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=isael-Diroche&label=Visitas&color=0&icon=0&pretty=true" />
     </a>
-    
-[![committers.top badge](https://user-badge.committers.top/dominican_republic/isael-Diroche.svg)](https://user-badge.committers.top/dominican_republic/isael-Diroche)
-   
   </p>
 
 <div align="center">
