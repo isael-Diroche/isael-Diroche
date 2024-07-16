@@ -62,6 +62,7 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-black?style=for-the-badge&logo=apachenetbeanside)
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-Black?style=for-the-badge&logo=figma)
+![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=typescript)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 <h3 align="left">Proyectos Destacados</h3>
