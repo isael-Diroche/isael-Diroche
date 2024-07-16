@@ -48,6 +48,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-CC6699?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![VScode](https://img.shields.io/badge/-Vscode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Python](https://img.shields.io/badge/-Python-succes?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java)
