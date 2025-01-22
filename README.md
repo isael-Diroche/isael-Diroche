@@ -18,9 +18,6 @@
     <a href="https://user-badge.committers.top/dominican_republic/isael-Diroche">
       <img src="https://user-badge.committers.top/dominican_republic/isael-Diroche.svg" alt="committers.top badge" />
     </a>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=isael-Diroche&label=Visitas&color=0&icon=0&pretty=true" />
-    </a>
   </p>
 
 <div align="center">
@@ -31,14 +28,14 @@
 </br>
 
 <h2 align="center">Acerca de mí</h2>
-<p align="center">¡Hola! Soy Isael Diroche, un entusiasta programador junior con pasión por la resolución de problemas y la creación de soluciones tecnológicas. Mi experiencia se centra en el desarrollo de aplicaciones utilizando Python y C#, así como el manejo de bases de datos con SQL Server, MySQL y SQLite3.</p>
+<p align="center">¡Hola! Soy Isael Diroche, un entusiasta programador junior con pasión por la resolución de problemas y la creación de soluciones tecnológicas. Mi experiencia se centra en el desarrollo de aplicaciones utilizando Python, TypeScript y C#, así como el manejo de bases de datos utilizando herramientas como SQL Server, MySQL y SQLite3.</p>
 </br>
 
 <h3 align="left">Habilidades</h3>
 <p align="left">
   
-- Lenguajes de Programación: Python, C#, JavaScript
-- Bases de Datos: SQL Server, MySQL, SQLite3, MondoDB, PostgresSQL
+- Lenguajes de Programación: Python, C#, JavaScript y Frameworks de los mismos.
+- Bases de Datos: SQL Server, MySQL, SQLite3, MondoDB, PostgresSQL.
 - Resolución de Problemas: Disfruto enfrentando desafíos y encontrando soluciones eficientes.
 - Aprendizaje Constante: Siempre estoy buscando oportunidades para aprender y mejorar mis habilidades.
   </br>
